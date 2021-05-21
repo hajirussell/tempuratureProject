@@ -12,6 +12,6 @@ function celsiusBtnClicked() {
     let fToC = (fahrenheitDegrees - 32) * 5/9;
 
     const celsiusAnswerFeild = document.getElementById("celsiusAnswer");
-    celsiusAnswerFeild.value = fToC;
+    celsiusAnswerFeild.value = fToC.toFixed(0);
 
 }

@@ -1,0 +1,24 @@
+/* BODY STYLES */
+
+body {
+    background-color: #B8D4E3;
+}
+
+div.content {
+    background-color: #855A5C;
+    border: 5px solid #66101F;
+    color: #EEFFDB;
+}
+
+div.main-content {
+    border-left: 3px solid #66101F;
+}
+
+
+/* BUTTON STYLES */
+
+button.simple {
+    border: 1px solid #66101F;
+    background-color: #EEFFDB;
+    color: #66101F;
+}
